@@ -56,12 +56,12 @@ Este diseño refleja la sensación silenciosa, incómoda y atmosférica típica 
 
 ## Estructura del Proyecto
 /
-│─ index.html
-│─ shf.css
-└── SHf/
-│── SHf2.mp3
-│── SHf33.mp3
-└── SHf.mp4
+│─ index.html  
+│─ shf.css  
+└── SHf/  
+│── SHf2.mp3  
+│── SHf33.mp3  
+└── SHf.mp4  
 
 ---
 
